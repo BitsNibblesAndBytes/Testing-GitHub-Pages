@@ -12,6 +12,12 @@ Then some more
 let a = 56;
 ```
 
-Some more content.
+Some more content and a video embed.
 
+{% include youtube.html id="JLMbpiywVxQ" %}
 
+### a third heading with quote
+
+> life is good
+
+And some more content.
