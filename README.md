@@ -2,6 +2,6 @@
 
 This is the main readme.md page
 
-* [ch1.md](ch1.md)
+* [Ch 1](ch1.md)
 * item 2
 * item 3
